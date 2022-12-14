@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\Akshay - Rhitik\Documents\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3149744722.index
+754307057.index
+300579163.index
+45101913.index
+1088268393.index
+596265174.index
